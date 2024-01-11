@@ -25,7 +25,7 @@
 - [awesome-database-design](https://github.com/sujeet-agrahari/awesome-database-design?tab=readme-ov-file#entity-relationship-modeling)
  
 # Security
-- [cyber-security training resources](https://github.com/CSIRT-MU/edu-resources?tab=readme-ov-file
+- [cyber-security training resources](https://github.com/CSIRT-MU/edu-resources?tab=readme-ov-file)
 - [awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening?tab=readme-ov-file#mail-servers)
 - [awesome-security-resources](https://github.com/Johnson90512/Awesome-Security-Resources)
 - [awesome-cybersecurity-resources](https://github.com/okhosting/awesome-cyber-security)
