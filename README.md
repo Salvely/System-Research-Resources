@@ -16,6 +16,9 @@
 - [PL Resources](https://github.com/shining1984/PL-Compiler-Resource)
 - [清华大学编译原理课程](https://github.com/chyyuu/compiler_course_info/tree/master?tab=readme-ov-file)
 - [清华实验](https://decaf-lang.github.io/minidecaf-tutorial/)
+- [awesome-compilers](https://github.com/aalhour/awesome-compilers)
+- [Program Analysis Resources](https://gist.github.com/MattPD/00573ee14bf85ccac6bed3c0678ddbef)
+- [PL Compiler Resources](https://github.com/shining1984/PL-Compiler-Resource)
 
 # Database
 - [awesome-database-learning](https://github.com/pingcap/awesome-database-learning?tab=readme-ov-file#courses)
