@@ -23,7 +23,7 @@
 # Database
 - [awesome-database-learning](https://github.com/pingcap/awesome-database-learning?tab=readme-ov-file#courses)
 - [db-readings](https://github.com/rxin/db-readings)
-- [db=benchmarks](https://github.com/benstopford/awesome-db-benchmarks)
+- [db-benchmarks](https://github.com/benstopford/awesome-db-benchmarks)
 - [awesome-db-development](https://github.com/huachaohuang/awesome-dbdev)
 - [awesome-database-design](https://github.com/sujeet-agrahari/awesome-database-design?tab=readme-ov-file#entity-relationship-modeling)
  
